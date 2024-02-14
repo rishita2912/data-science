@@ -1,0 +1,27 @@
+Analysis of diverse data, inclusive analysis, coding, math.Data science takes unstructured data and finds order and meaning,
+Venn Daigram of data Science:
+contains of 3 things- coding, stats, domain
+statiscal coding: R and python, Data bases: SQL
+Command Line : Bash, Maths: Probabiltiy, algebra, regresseion, diagonosis problems.
+Domain: Expertise in field, goals methods and constraints, can implement well.
+ML : Coding and math without domain, blackbox models.
+
+Planning: define goals   organise resourse   coordinate people   schedule project 
+Data prep: Get data   Clean data   Explore data  Refine data.
+Modelling: Create Model  Validate model  Evaluate model  Refine Model.
+Follow up: Present Model  Deploy model  Revisit model  Archive assests.
+
+Data science can help BI to identify data sources and set up framework, help get pat easy questions and data
+BI is very goal oriented.
+API: Application Program Interface which allows communicate.
+Scraping for web data without APUs. Make data exactly what you need.
+GIGO: Garbage in, garbage out.
+Apps: Spreadsheets, Tableau for data visualization, SPSS, Jasp.
+Web Data: HTML, XML, JSON.
+Code: R, python, sql, c,c++ and java, bash, regrex.
+The goal of machine learning is to work in data space by dimension reduction, clustering,k-means and anamolies
+Categories: logistic regression, KNN , naiive bayes, decision tress
+Major element of machine learning is linear regression, ensemble models.
+
+ML can be used to categorize and pridict ,goal is useful insight.
+Store the data in the CSV files, place the files in github, code in python or R.
