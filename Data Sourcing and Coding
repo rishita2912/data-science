@@ -1,0 +1,18 @@
+DATA SOURCING
+
+APIS allows programs to talk with each other.
+REST API access data on webpage via HTTP, data in JSON format, send to other programs.
+Social APIS are facebook twitter google talk.Visual APIs are google maps, pinterest, youtube.
+APIs make web data easy.Data Sourcing makes data.
+Reaseachers paly active roles in experiments. If you want to have experiments then perform focused research,
+hypothethsis driven, random assignment, confound artifacts.
+Tools of data science are spreadsheets, tableau, web data and the essentials tools are R, python ,SQL and
+some programmming languages like C, C++, Java,Bash,Regex.
+Focus on the tools that are more productive to you. Coding is important but DS > tools.
+Application contains of spreadsheats containing rows and columns and spreadsheets can be right tool for data science
+because they are eyerywhere, client format, data transfer(one program to another) and they are easy to use.
+
+Uses of the spreadsheets are data browsing, sorting, rearranging, formatting, transposing, tracking changes, makeing pivot tables and for arranging the output.
+
+Handling tiny data becomes a tougher task. for transferring data, column == variable, row== case.
+
