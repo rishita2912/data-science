@@ -1,0 +1,63 @@
+Coding in Data Science
+
+Tableau
+Tableau is a data visualization tool used for data analysis and business intelligence.Tableau can connect to a wide range of data sources, including files (e.g. Excel, text files, JSON, PDF), databases (e.g. Microsoft SQL Server, MySQL, Oracle, Teradata), 
+and cloud sources (e.g. AWS, Azure SQL Data Warehouse, Google Cloud SQL).
+
+SPSS
+IBM SPSS SOftware it is a desktop program it has a drop down menu and the main interface almost looks like an interface.
+
+JASP(can think of a free version of SPSS). It is open source.
+
+HTML
+Applications are tools
+goals drive choice
+coding with web data - HTML
+HTML defines the page structure
+
+XML
+It is a semi structured data, tages define data and the tags are free to define.
+Gives you a lot of flexibilty.
+
+JSON
+Java Script Object Notation. Tags vary freely and it is specifically designed for data interchange and it is typically shortner than xml.
+And Json is replacing XML.
+
+R
+Free and open source, great community, vectorn operation
+
+CRAN Comprehensive R Archive Network
+
+R is the language of data science and a command line interface.
+
+PYTHON
+popular and familiar, general purpose, thousands of packages.
+
+SQL
+Language of databases and is a database tool , is a structured query language; for
+relational databases.
+RDBMS
+ORACLE DATABASE
+MICROSOFT SQL SERVER
+MYSQL
+POSTGRESQL
+Minimise data redundancy by using connected tables.
+
+C, C++ and Java used for coding in data science
+
+Shells.
+shell= language.
+mac and linux : Bash: Bourne Again Shell.
+Windows: Powershell
+1. $prompt
+2. One line at a time.
+3. Run Script
+
+apps : Excel and Tableau
+Code : R and Python
+Utilities : Bash and regrex
+Domain: Field experience
+
+
+
+
